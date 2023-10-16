@@ -1,2 +1,2 @@
-# Python_GTK
+# Python_WTFs
 This repository contains exmaples of when to fit/use certain data structures, algorithms or structures to solve specific problems
